@@ -4,6 +4,8 @@ from scipy import signal
 import matplotlib.pyplot as plt
 import control
 
+st.subheader("201921070 김승준")
+
 # 전달함수 정의
 num = [100]
 den = [1, 5, 6]
